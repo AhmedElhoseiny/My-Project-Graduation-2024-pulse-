@@ -5,6 +5,7 @@ In the last couple of decades, biomedical and smart healthcare research has witn
 Pulse is designed to address this challenge by providing a comprehensive solution for pill schedule management, doctor appointments, and diet management reminders. It includes a mobile application with notifications and a physical box to assist patients with conditions such as Dementia and Alzheimer’s in remembering their medication at the right time and in the correct order.
 
 Problem Definition
+
 Managing medications is challenging for patients due to the need to remember schedules and understand interactions between different drugs. This complexity increases when multiple drugs are involved.
 
 Project Objectives
