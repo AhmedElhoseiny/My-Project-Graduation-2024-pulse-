@@ -1,5 +1,7 @@
 Pulse
+
 Overview
+
 In the last couple of decades, biomedical and smart healthcare research has witnessed rapid growth, resulting in a significant increase in experimental data (i.e., Big Data).The sheer volume of data makes it impossible for a human to analyze and read all related articles, complicating even the extraction of field-specific publications.The diversification and explosive growth in healthcare literature and the pharmaceutical industry highlight the need for automation tools for knowledge-based discovery.
 
 Pulse is designed to address this challenge by providing a comprehensive solution for pill schedule management, doctor appointments, and diet management reminders. It includes a mobile application with notifications and a physical box to assist patients with conditions such as Dementia and Alzheimer’s in remembering their medication at the right time and in the correct order.
