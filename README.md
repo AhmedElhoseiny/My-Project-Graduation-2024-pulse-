@@ -1,4 +1,4 @@
-Pulse
+Pulse APP
 
 Overview
 
